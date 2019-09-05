@@ -2,7 +2,7 @@
 	"name": "starwar-quiz",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/Gigi1111/starwars_lookalike_game",
+	"homepage": "https://gigi1111.github.io/starwars_lookalike_game/",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"react": "^16.9.0",
