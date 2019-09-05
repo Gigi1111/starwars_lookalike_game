@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gigi1111/starwars_lookalike_game/static/css/main.1fceec57.chunk.css",
-    "main.js": "/Gigi1111/starwars_lookalike_game/static/js/main.65e5190f.chunk.js",
-    "main.js.map": "/Gigi1111/starwars_lookalike_game/static/js/main.65e5190f.chunk.js.map",
-    "runtime~main.js": "/Gigi1111/starwars_lookalike_game/static/js/runtime~main.41dcb24b.js",
-    "runtime~main.js.map": "/Gigi1111/starwars_lookalike_game/static/js/runtime~main.41dcb24b.js.map",
-    "static/js/2.8bccc198.chunk.js": "/Gigi1111/starwars_lookalike_game/static/js/2.8bccc198.chunk.js",
-    "static/js/2.8bccc198.chunk.js.map": "/Gigi1111/starwars_lookalike_game/static/js/2.8bccc198.chunk.js.map",
-    "index.html": "/Gigi1111/starwars_lookalike_game/index.html",
-    "precache-manifest.e294f73cd9b27f2aeb2c5d4a16515ab5.js": "/Gigi1111/starwars_lookalike_game/precache-manifest.e294f73cd9b27f2aeb2c5d4a16515ab5.js",
-    "service-worker.js": "/Gigi1111/starwars_lookalike_game/service-worker.js",
-    "static/css/main.1fceec57.chunk.css.map": "/Gigi1111/starwars_lookalike_game/static/css/main.1fceec57.chunk.css.map"
+    "main.css": "/starwars_lookalike_game/static/css/main.1fceec57.chunk.css",
+    "main.js": "/starwars_lookalike_game/static/js/main.d7eba313.chunk.js",
+    "main.js.map": "/starwars_lookalike_game/static/js/main.d7eba313.chunk.js.map",
+    "runtime~main.js": "/starwars_lookalike_game/static/js/runtime~main.9862a8aa.js",
+    "runtime~main.js.map": "/starwars_lookalike_game/static/js/runtime~main.9862a8aa.js.map",
+    "static/js/2.8bccc198.chunk.js": "/starwars_lookalike_game/static/js/2.8bccc198.chunk.js",
+    "static/js/2.8bccc198.chunk.js.map": "/starwars_lookalike_game/static/js/2.8bccc198.chunk.js.map",
+    "index.html": "/starwars_lookalike_game/index.html",
+    "precache-manifest.9066a2c1cc64c4f2cf24d292782698ac.js": "/starwars_lookalike_game/precache-manifest.9066a2c1cc64c4f2cf24d292782698ac.js",
+    "service-worker.js": "/starwars_lookalike_game/service-worker.js",
+    "static/css/main.1fceec57.chunk.css.map": "/starwars_lookalike_game/static/css/main.1fceec57.chunk.css.map"
   }
 }
